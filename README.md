@@ -3,18 +3,12 @@
 About this project
 ------------------
 For my ICS4U culminating, we were tasked to create a program that meets these requirements:
-
-a. Being Object Oriented
-
-b. Using Arrays (1D and 2D)
-
-c. Handle File I/O (Reading and writing text files)
-
-d. Search and sort data
-
-e. Using an external Python module
-
-f. Solving a problem
+- Being Object Oriented
+- Using Arrays (1D and 2D)
+- Handle File I/O (Reading and writing text files)
+- Search and sort data
+- Using an external Python module
+- Solving a problem
 
 I decided to create a program that lets the user create their own video game storage.
 It is organized by name, platform and genre.
