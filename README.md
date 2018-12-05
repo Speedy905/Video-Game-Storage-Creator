@@ -15,7 +15,7 @@ It is organized by name, platform and genre.
 
 Although it wasn't the best, I was still able to achieve a decent mark out of it.
 
-This has been uploaded here for archival reasons, and is also licensed under the MIT License. See [here](LICENSE) for more details.
+This has been uploaded here for archival reasons, and is also licensed under the [MIT License](LICENSE).
 
 I may or may not update these scripts in the future.
 
