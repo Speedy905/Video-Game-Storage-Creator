@@ -121,7 +121,7 @@ ARE YOU SURE YOU WANT TO PROCEED? (y/n)
                 #Clears the file
                 with open(str(filename)+'.txt','w') as g:
                     #Calls the progressbar function/module
-                    progress2()
+                    #progress2()
                     print('File cleared')
                     #Clears the name list
                     name.clear()
