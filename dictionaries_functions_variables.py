@@ -9,7 +9,7 @@
 #6/6
 
 #Progress bar modules
-import progressbar
+#import progressbar
 import time
 
 name = []
