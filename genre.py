@@ -35,7 +35,7 @@ class gameGenre(object):
     #Displays the genre menu
     def displaygenreMenu(self):
         #Calls the progress bar function/module
-        progress2()
+        #progress2()
         print('''
 What category genre is your game in?
 Please type it. Case sensitive
@@ -68,7 +68,7 @@ will not be able to select from the huge list)
     
     #Action function
     def action(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -112,7 +112,7 @@ to go back to the previous menu
     
     #Action_Adventure Function
     def action_adventure(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -156,7 +156,7 @@ to go back to the previous menu
     
     #Adventure Function
     def adventure(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -200,7 +200,7 @@ to go back to the previous menu
     
     #Role Playing Function
     def role_playing(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -245,7 +245,7 @@ to go back to the previous menu
     
     #Simulation function
     def simulation(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -290,7 +290,7 @@ to go back to the previous menu
     
     #Strategy function
     def strategy(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -335,7 +335,7 @@ to go back to the previous menu
     
     #Sportball function
     def sports(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -380,7 +380,7 @@ to go back to the previous menu
     
     #Other genres function
     def others(self):
-        progress1()
+        #progress1()
         sub = True
         
         while sub:
@@ -426,7 +426,7 @@ to go back to the previous menu
     
     #Purpose function
     def purpose(self):
-        progress1()
+        #progress1()
         sub = True
         while sub:
             print('''
@@ -484,7 +484,7 @@ to go back to the previous menu
     
     #Displays the entire rabbit hole list
     def displaylist(self):
-        progress2()
+        #progress2()
         for l in genrelist:
             print(l)      
         goback = input('Press Enter to go back')
