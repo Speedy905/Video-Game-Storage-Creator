@@ -61,7 +61,7 @@ C/c to view the credits
     #Starts the creation             
     def start(self):
         #Runs the function from the class
-        progress1()
+        #progress1()
         inventoryCreation().runprogram()
     
     #Shows the help message
@@ -102,7 +102,7 @@ Python 3 language
         print('''
 Python Modules used:
 a. time/sys
-b. progressbar2
+b. progressbar2 (Not used)
         ''')
         time.sleep(1)
         print('''
