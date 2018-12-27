@@ -43,6 +43,8 @@ Please type it. Case sensitive
 Or type "Display list" (without quotations) 
 to view the entire genre options
 [Warning, Huge list.]
+(Note: this will only display the list, you 
+will not be able to select from the huge list)
         ''')
         
         #Displays the list        
