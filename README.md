@@ -21,6 +21,6 @@ I may or may not update these scripts in the future.
 
 How to execute
 --------------
-Make sure you running on Python3, and have the python module progressbar2 installed.
+Make sure you running on Python3. ~~and have the python module progressbar2 installed.~~ (This module is not used, refer to [commit](https://github.com/Speedy905/Video-Game-Storage-Creator/commit/2953dedb6b5ea054e005173ee637ccb072908ccc) for more details.)
 
 Download all the files, leaving them the way it is, and then start the program by running [starthere.py](starthere.py)
