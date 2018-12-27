@@ -92,16 +92,16 @@ def linearSearch(item,list):
     return found
 
 #Progress bar 1
-def progress1():
+#def progress1():
     #Sets the max value
-    with progressbar.ProgressBar(max_value=10) as bar:
-        for i in range(10):
-            time.sleep(0.1)
+ #   with progressbar.ProgressBar(max_value=10) as bar:
+  #      for i in range(10):
+   #         time.sleep(0.1)
             #Updates the screen
-            bar.update(i)
+    #        bar.update(i)
 
 #Progress bar 2
-def progress2():
-    bar = progressbar.ProgressBar()
-    for i in bar(range(100)):
-        time.sleep(0.02)
+#def progress2():
+ #   bar = progressbar.ProgressBar()
+  #  for i in bar(range(100)):
+   #     time.sleep(0.02)
